@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 790fbfc3-1a05-8242-3490-f6308ca1b28f
 title: MIT Sloan Professional Standards
 uid: 7304ec23-4a1e-6a7e-1b88-7b17d2778a78
