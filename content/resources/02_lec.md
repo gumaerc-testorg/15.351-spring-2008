@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5fef642-63f9-f6a5-cf8a-a014413ab923
 resourcetype: Document
 title: Market Dynamics & Competitive Implications
 uid: 02157a27-6e39-3162-9f5a-cb8f9de6adf5

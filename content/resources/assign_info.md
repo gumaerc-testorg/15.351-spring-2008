@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 608f8c98-dbb3-ef19-b2b8-661acd61b452
 resourcetype: Document
 title: Assignment Structure and Guidelines
 uid: b27bfe36-989c-80fc-65e6-eefb1901a9de

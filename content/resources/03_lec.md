@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5fef642-63f9-f6a5-cf8a-a014413ab923
 resourcetype: Document
 title: Competitive Implications of Technology & Market dynamics
 uid: 717e7954-77a0-0caf-9f51-10782799db72

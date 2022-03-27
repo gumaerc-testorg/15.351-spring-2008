@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5fef642-63f9-f6a5-cf8a-a014413ab923
 resourcetype: Document
 title: "Class Fourteen \u2013 D-Wave"
 uid: 17864e9c-2a03-8685-32b0-39345b294642

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f5fef642-63f9-f6a5-cf8a-a014413ab923
 resourcetype: Document
 title: "Class One \u2013 Technology Dynamics"
 uid: 1b887d9f-145e-f5e6-340a-75e13fdb16b0
