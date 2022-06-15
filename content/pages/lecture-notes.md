@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with information
+  on lecture topics and related discussion questions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ DISCUSSION QUESTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamics of technological innovation ([PDF 1]({{< baseurl >}}/resources/01_intro)) ([PDF 2]({{< baseurl >}}/resources/01_lecture))
+Dynamics of technological innovation ({{% resource_link b9521690-ef15-68c5-4003-7634d26777df "PDF 1" %}}) ({{% resource_link 1b887d9f-145e-f5e6-340a-75e13fdb16b0 "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -53,7 +55,7 @@ Dynamics of technological innovation ([PDF 1]({{< baseurl >}}/resources/01_intro
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Industrial implications of technological innovation ([PDF]({{< baseurl >}}/resources/02_lec))
+Industrial implications of technological innovation ({{% resource_link 02157a27-6e39-3162-9f5a-cb8f9de6adf5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -71,7 +73,7 @@ Dynamics of markets for technological innovation
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Competitive implications of market and technology dynamics ([PDF]({{< baseurl >}}/resources/03_lec))
+Competitive implications of market and technology dynamics ({{% resource_link 717e7954-77a0-0caf-9f51-10782799db72 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -96,7 +98,7 @@ Competitive implications of market and technology dynamics ([PDF]({{< baseurl >}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Systematizing innovation; "What's the Big Idea;" IDEO ([PDF]({{< baseurl >}}/resources/04_lec))
+Systematizing innovation; "What's the Big Idea;" IDEO ({{% resource_link 936b6711-eb2e-2129-07da-56ec8f489235 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -116,7 +118,7 @@ Systematizing innovation; "What's the Big Idea;" IDEO ([PDF]({{< baseurl >}}/res
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Scoping technology: Advanced Inhalation Research ([PDF]({{< baseurl >}}/resources/05_lec))
+Scoping technology: Advanced Inhalation Research ({{% resource_link eb02ce8d-afa4-5883-0809-caa31313d53a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -209,7 +211,7 @@ Capstone: Iridium
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Organizing innovation teams: 'The Bakeoff' ([PDF]({{< baseurl >}}/resources/10_lec))
+Organizing innovation teams: 'The Bakeoff' ({{% resource_link b32af945-c559-b533-f1ba-3dc5e9a66c19 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -246,7 +248,7 @@ Organizing flexible processes; 'Internet Time' exercise
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Incentivizing and organizing innovators: GSK ([PDF]({{< baseurl >}}/resources/12_lec))
+Incentivizing and organizing innovators: GSK ({{% resource_link 3aed8252-0e0e-6429-401e-d449eb59943a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -264,7 +266,7 @@ Incentivizing and organizing innovators: GSK ([PDF]({{< baseurl >}}/resources/12
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Organizing innovation between firms and communities; One Laptop Per Child, innovation communities (Visitor: Mako Hill) ([PDF]({{< baseurl >}}/resources/13_lec))
+Organizing innovation between firms and communities; One Laptop Per Child, innovation communities (Visitor: Mako Hill) ({{% resource_link 5b005fcc-d4c6-b792-22fb-1608cb53dadd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -282,7 +284,7 @@ Organizing innovation between firms and communities; One Laptop Per Child, innov
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Incentivizing and organizing external innovators: D-Wave ([PDF]({{< baseurl >}}/resources/14_lec))
+Incentivizing and organizing external innovators: D-Wave ({{% resource_link 17864e9c-2a03-8685-32b0-39345b294642 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -300,7 +302,7 @@ Incentivizing and organizing external innovators: D-Wave ([PDF]({{< baseurl >}}/
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Negotiation innovation work between firms and academia (SpudSpy & negotiation exercise) ([PDF]({{< baseurl >}}/resources/15_lec))
+Negotiation innovation work between firms and academia (SpudSpy & negotiation exercise) ({{% resource_link a05aab9b-5de6-e56e-edb0-ec97aa7872fb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -335,7 +337,7 @@ No class; time for project work
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamics of the market for ideas; designing the value chain ([PDF]({{< baseurl >}}/resources/17_lec))
+Dynamics of the market for ideas; designing the value chain ({{% resource_link 689fbb06-2085-d0d2-f22c-62c27b8aebf9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -352,7 +354,7 @@ Dynamics of the market for ideas; designing the value chain ([PDF]({{< baseurl >
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Leveraging portfolio development: A123 (Visitor: Ric Fulop, Founder A123 Systems) ([PDF]({{< baseurl >}}/resources/18_lec))
+Leveraging portfolio development: A123 (Visitor: Ric Fulop, Founder A123 Systems) ({{% resource_link 5061ac1e-9ed5-bbbb-7467-81ae3f5bea88 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -467,7 +469,7 @@ Renewing innovation; internal venturing; GE imagination breakthroughs
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Wrap-up ([PDF]({{< baseurl >}}/resources/24_wrap_up))
+Wrap-up ({{% resource_link f6954dc6-bab2-a581-7834-3456f17a308f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

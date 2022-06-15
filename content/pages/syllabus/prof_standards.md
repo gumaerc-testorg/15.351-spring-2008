@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on MIT Sloan professional standards,
+  values, academic honesty, plagiarism, individual assignments, team assignments,
+  personal conduct, and related resources.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
