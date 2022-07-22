@@ -6,6 +6,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/c2476
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Group Assignments
 uid: c2476c8d-a133-9cf9-47b3-f1e2582acdc2
 ---
 General instructions for group projects, information on each of three assignments, additional guidelines, and deadlines.
-

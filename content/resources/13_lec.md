@@ -6,6 +6,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/5b005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class Thirteen
 uid: 5b005fcc-d4c6-b792-22fb-1608cb53dadd
 ---
 Lecture presentation on organizing innovation between firms and communities, One Laptop Per Child, and Mako Hill.
-

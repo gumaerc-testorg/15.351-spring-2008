@@ -6,6 +6,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/936b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class Four
 uid: 936b6711-eb2e-2129-07da-56ec8f489235
 ---
 Lecture presentation on systematizing innovation, the BIG system, and IDEO.
-

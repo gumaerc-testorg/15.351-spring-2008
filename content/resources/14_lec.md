@@ -6,6 +6,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/17864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Class Fourteen \u2013 D-Wave"
 uid: 17864e9c-2a03-8685-32b0-39345b294642
 ---
 Lecture presentation on financing, progress report, plans, team-building, and logic behind D-Wave Systems, Inc.
-

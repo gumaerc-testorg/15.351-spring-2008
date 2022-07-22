@@ -5,6 +5,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/f6954
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Wrap Up
 uid: f6954dc6-bab2-a581-7834-3456f17a308f
 ---
 Lecture presentation on managing innovation and entrepreneurship.
-

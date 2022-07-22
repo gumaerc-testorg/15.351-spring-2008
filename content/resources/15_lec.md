@@ -6,6 +6,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/a05aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Class Fifteen \u2013 SpudSpy"
 uid: a05aab9b-5de6-e56e-edb0-ec97aa7872fb
 ---
 Lecture presentation on negotiating innovation work between firms and academia.
-

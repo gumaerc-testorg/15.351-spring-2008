@@ -6,6 +6,7 @@ file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/b9521
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction
 uid: b9521690-ef15-68c5-4003-7634d26777df
 ---
 Introductory lecture presentation on definitions and motivations, goals for the course, the course outline, and course deliverables.
-
