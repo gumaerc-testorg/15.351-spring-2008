@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus provides an overview of the course and information on course
+  meeting times, life in the classroom, required readings, course requirements, and
+  grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 790fbfc3-1a05-8242-3490-f6308ca1b28f
 ---
@@ -112,4 +117,4 @@ Final assignment
 
 {{< tableclose >}}
 
-Further information: [Sloan Professional Standards]({{< baseurl >}}/pages/syllabus/prof_standards)
+Further information: {{% resource_link 7304ec23-4a1e-6a7e-1b88-7b17d2778a78 "Sloan Professional Standards" %}}
