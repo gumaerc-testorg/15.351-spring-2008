@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on incentivizing and organizing innovators, organization
   structure, specialization versus integration, GlaxoSmithKline, and Wyeth.
 file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/3aed82520e0e6429401ed449eb59943a_12_lec.pdf
+file_size: 309687
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
