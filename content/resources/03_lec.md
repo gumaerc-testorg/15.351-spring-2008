@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on the competitive implications of market and technology
   dynamics.
 file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/717e795477a00caf9f5110782799db72_03_lec.pdf
+file_size: 219686
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

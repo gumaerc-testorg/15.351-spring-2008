@@ -3,6 +3,7 @@ content_type: resource
 description: This handout provides information on the structure of course assignments,
   guidelines, and additional resources.
 file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/b27bfe36989c80fc65e6eefb1901a9de_assign_info.pdf
+file_size: 69114
 file_type: application/pdf
 learning_resource_types:
 - Assignments
