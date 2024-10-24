@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on organizing innovation between firms and communities,
   One Laptop Per Child, and Mako Hill.
-file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/5b005fccd4c6b79222fb1608cb53dadd_13_lec.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/5b005fccd4c6b79222fb1608cb53dadd_13_lec.pdf
 file_size: 107717
 file_type: application/pdf
 learning_resource_types:
