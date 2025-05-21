@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on negotiating innovation work between firms and
   academia.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/a05aab9b5de6e56eedb0ec97aa7872fb_15_lec.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/a05aab9b5de6e56eedb0ec97aa7872fb_15_lec.pdf
 file_size: 296220
 file_type: application/pdf
 learning_resource_types:

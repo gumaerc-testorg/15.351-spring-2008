@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on systematizing innovation, the BIG system, and
   IDEO.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/936b6711eb2e212907da56ec8f489235_04_lec.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/936b6711eb2e212907da56ec8f489235_04_lec.pdf
 file_size: 218700
 file_type: application/pdf
 learning_resource_types:

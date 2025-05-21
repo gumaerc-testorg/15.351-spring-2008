@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on managing innovation and entrepreneurship.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/f6954dc6bab2a58178343456f17a308f_24_wrap_up.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/f6954dc6bab2a58178343456f17a308f_24_wrap_up.pdf
 file_size: 310895
 file_type: application/pdf
 learning_resource_types:
