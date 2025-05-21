@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on commercialization strategy, dynamics of the market
   for ideas, and designing the value chain.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/689fbb062085d0d2f22c62c27b8aebf9_17_lec.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/689fbb062085d0d2f22c62c27b8aebf9_17_lec.pdf
 file_size: 575176
 file_type: application/pdf
 learning_resource_types:

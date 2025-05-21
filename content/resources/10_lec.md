@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on organizing innovation teams.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/b32af945c559b533f1ba3dc5e9a66c19_10_lec.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/b32af945c559b533f1ba3dc5e9a66c19_10_lec.pdf
 file_size: 261287
 file_type: application/pdf
 learning_resource_types:
