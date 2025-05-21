@@ -2,7 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation on definitions and motivations, goals
   for the course, the course outline, and course deliverables.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/b9521690ef1568c540037634d26777df_01_intro.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/b9521690ef1568c540037634d26777df_01_intro.pdf
 file_size: 189178
 file_type: application/pdf
 learning_resource_types:

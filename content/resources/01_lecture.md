@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on technology-driven dynamics, S-Curves, and defining,
   mapping, and managing technology dynamics.
-file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/1b887d9f145ef5e6340a75e13fdb16b0_01_lecture.pdf
+file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/1b887d9f145ef5e6340a75e13fdb16b0_01_lecture.pdf
 file_size: 458616
 file_type: application/pdf
 learning_resource_types:
