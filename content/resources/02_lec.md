@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the industrial implications of technological
   innovation, market dynamics, and competition.
-file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/02157a276e3931629f5acb8f9de6adf5_02_lec.pdf
+file: /ol-ocw-studio-app/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/02157a276e3931629f5acb8f9de6adf5_02_lec.pdf
 file_size: 313562
 file_type: application/pdf
 learning_resource_types:
