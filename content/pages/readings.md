@@ -55,7 +55,7 @@ Christensen, Clayton. "Exploring the Limits of the Technology S-Curve. Part I: C
 
 ———. "Exploring the Limits of the Technology S-Curve. Part II: Architectural Technologies." _Product and Operations Management Journal_ 1, no. 4 (1992): 358-366.
 
-Moore, Gordon. "Cramming More Components onto Integrated Circuits," _Electronics_, April 19, 1965. ([PDF](http://ieeexplore.ieee.org/iel3/5/14340/00658762.pdf))
+Moore, Gordon. "Cramming More Components onto Integrated Circuits," _Electronics_, April 19, 1965. ({{% resource_link "af4ce357-270f-4983-883e-4d156b70ede1" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -84,7 +84,7 @@ Moore, Gordon. _Crossing the Chasm_. New York, NY: Collins Business, 2002. ISBN:
 Competitive implications of market and technology dynamics
 {{< tdclose >}}
 {{< tdopen >}}
-Gladwell, Malcolm. "[The Televisionary](http://www.newyorker.com/archive/2002/05/27/020527crat_atlarge)." _The New Yorker_, May 27, 2002.
+Gladwell, Malcolm. "{{% resource_link "b9ccb717-a8e8-4d0b-a0a7-9a314de1255a" "The Televisionary" %}}." _The New Yorker_, May 27, 2002.
 {{< tdclose >}}
 {{< tdopen >}}
 
