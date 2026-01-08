@@ -47,7 +47,7 @@ The best way to avoid plagiarism is to cite your sources - both within the body 
 
 Materials gathered through research via the Internet must be cited in the same manner as more traditionally published material. Lack of such citation constitutes plagiarism.
 
-These definitions were drawn from the MIT Libraries Web site. For more information please visit: {{% resource_link "6b1787e2-e801-4a68-8a4e-a207232665bd" "The Information Navigator" %}}.
+These definitions were drawn from the MIT Libraries Web site. For more information please visit: [The Information Navigator](http://libguides.mit.edu/content.php?pid=80743&sid=598642#1885811).
 
 ## Individual Assignments
 
@@ -121,6 +121,6 @@ Upholding these expectations and the standards upon which they are based is a sh
 
 ## Resources
 
-{{% resource_link "9ff980c5-4ea8-4616-adaf-16067102726c" "Citing and Using Sources" %}}
+[Citing and Using Sources](http://libguides.mit.edu/citing)
 
-{{% resource_link "4669f65e-8ddc-41d9-90c2-790bec46b494" "Academic Integrity at MIT: Expectations of All Students" %}}
+[Academic Integrity at MIT: Expectations of All Students](https://integrity.mit.edu/)
